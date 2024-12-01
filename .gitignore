@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+.env-sample
+
+# Previous/Sample Code
+pre-code.js
+
+vercel-old.json
