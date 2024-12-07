@@ -21,7 +21,7 @@ const {
 // PAGE_ACCESS_TOKEN,
 // GRAPH_API_VERSION,
 
-app.get("/", (req, res) => res.send("Welcome to Chika Chino"));
+app.get("/", (req, res) => res.send("Welcome to AI Bot Solutions"));
 
 app.get("/webhook", (req, res) => {
   const {
